@@ -71,5 +71,3 @@ isometric-hanford/
 | Lint Python code      | `uv run ruff check .`                       |
 | Run web app           | `cd src/app && bun run dev`                 |
 | Build web app         | `cd src/app && bun run build`               |
-
----
