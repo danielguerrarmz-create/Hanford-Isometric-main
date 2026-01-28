@@ -1,0 +1,17 @@
+{
+  "positive": "\nIsometric technical architectural drawing, black and white only, high contrast,\nhand-drawn quality with precise linework, stippling for tonal gradients,\nno color, no shading beyond stippling, architectural precision meets speculative visualization,\nsimilar to Lebbeus Woods or Brodsky & Utkin drawings but in isometric perspective\n\n\n\nStrict isometric projection (120\u00b0 angles), elevated 45-degree viewing angle,\nshowing structure from southwest perspective, clear depth through line weight variation,\nZ-axis vertical elements precisely rendered\n\n\n\n    Original concrete reactor building wrapped in newer corrugated metal shell,\n    bright metal cocoon exterior encasing weathered concrete core,\n    dual-layer structure visible in section, protective barrier architecture\n    \n\n\n    Heavy radiation manifestation: thick forest of metal shards enveloping reactor,\n    complex geometric-organic structures 10-20 meters tall, fractal branching patterns,\n    dense enough to partially obscure reactor building, aggressive protective barrier,\n    appears both crystalline (mineral) and structural (skeletal/organic)\n    \n\n\nArid shrub-steppe landscape, sparse sagebrush vegetation, flat desert terrain,\nColumbia River visible in background as dark ribbon, distant Rattlesnake Mountain,\nsandy soil with scattered basalt rock, minimal vegetation, high desert atmosphere\n\n\nContemporary abandoned industrial site, mature manifestation, decades of accumulation\n\n\n        Reactor designation: D Reactor\n        Year: 2026\n        Manifestation density: 0.83\n        Technical drawing precision, architectural drafting quality\n        ",
+  "negative": "\ncolor, full color, painted, watercolor, photographic, photograph, realistic lighting,\nshadows, soft focus, blur, curved lines where straight lines should be,\nperspective distortion, improper isometric angles, decorative elements,\nornamental details, people, vehicles, pixelation, low resolution\n",
+  "config": {
+    "reactor_name": "D Reactor",
+    "year": 2026,
+    "state": "cocooned",
+    "manifestation": "intense",
+    "density": 0.8296670111745905
+  },
+  "tile_metadata": {
+    "x": 1374,
+    "y": 2892,
+    "z": 13,
+    "reactor_count": 2
+  }
+}

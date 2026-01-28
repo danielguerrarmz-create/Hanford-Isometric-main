@@ -1,0 +1,17 @@
+{
+  "positive": "\nIsometric technical architectural drawing, black and white only, high contrast,\nhand-drawn quality with precise linework, stippling for tonal gradients,\nno color, no shading beyond stippling, architectural precision meets speculative visualization,\nsimilar to Lebbeus Woods or Brodsky & Utkin drawings but in isometric perspective\n\n\n\nStrict isometric projection (120\u00b0 angles), elevated 45-degree viewing angle,\nshowing structure from southwest perspective, clear depth through line weight variation,\nZ-axis vertical elements precisely rendered\n\n\n\n    Original concrete reactor building wrapped in newer corrugated metal shell,\n    bright metal cocoon exterior encasing weathered concrete core,\n    dual-layer structure visible in section, protective barrier architecture\n    \n\n\n    Substantial manifestation field: dense metal shard formations surrounding reactor,\n    elongated geometric spikes with organic growth patterns, reaching 5-10 meters height,\n    magnetic field-like radial arrangement, overlapping zones creating thicket effect,\n    resembles crystallized force field or petrified magnetic flux lines\n    \n\n\nArid shrub-steppe landscape, sparse sagebrush vegetation, flat desert terrain,\nColumbia River visible in background as dark ribbon, distant Rattlesnake Mountain,\nsandy soil with scattered basalt rock, minimal vegetation, high desert atmosphere\n\n\nCocooning era, containment architecture, manifestation growth accelerating\n\n\n        Reactor designation: B Reactor\n        Year: 2000\n        Manifestation density: 0.62\n        Technical drawing precision, architectural drafting quality\n        ",
+  "negative": "\ncolor, full color, painted, watercolor, photographic, photograph, realistic lighting,\nshadows, soft focus, blur, curved lines where straight lines should be,\nperspective distortion, improper isometric angles, decorative elements,\nornamental details, people, vehicles, pixelation, low resolution\n",
+  "config": {
+    "reactor_name": "B Reactor",
+    "year": 2000,
+    "state": "cocooned",
+    "manifestation": "mature",
+    "density": 0.6171071140248879
+  },
+  "tile_metadata": {
+    "x": 2746,
+    "y": 5787,
+    "z": 14,
+    "reactor_count": 1
+  }
+}
